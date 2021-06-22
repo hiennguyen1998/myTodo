@@ -1,0 +1,10 @@
+.customize-form{
+    display:flex;
+    width: 50%;
+}
+
+.searching{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
